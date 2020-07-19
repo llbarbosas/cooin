@@ -1,0 +1,9 @@
+{
+  "name": "cooin",
+  "version": "1.0.0",
+  "description": "Crypto currency implementation with NodeJS",
+  "main": "index.js",
+  "repository": "http://github.com/llbarbosas/cooin",
+  "author": "Lucas Barbosa <llbarbosasc@gmail.com>",
+  "license": "MIT"
+}
